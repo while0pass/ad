@@ -1,0 +1,1294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns00001100011" textdirection="ltr" device="false" fontscale="130" kbshortcuts="false" skip_nav_enabled="true" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns00001100011" font="Arial" controllayout="npnxnanbsnfns00001100011" colorscheme="npnxnanbnsnfns00001100011" string_table="npnxnanbnsnfns00001100011" />
+    <layout name="pxabnsnfns00001100011" font="Arial" controllayout="pxabnsnfns00001100011" colorscheme="npnxnanbnsnfns00001100011" string_table="npnxnanbnsnfns00001100011" />
+    <layout name="npxnabnsnfns00001100011" font="Arial" controllayout="npxnabnsnfns00001100011" colorscheme="npnxnanbnsnfns00001100011" string_table="npnxnanbnsnfns00001100011" />
+    <layout name="npnxnanbnsnfns00001100011" font="Arial" controllayout="npnxnanbnsnfns00001100011" colorscheme="npnxnanbnsnfns00001100011" string_table="npnxnanbnsnfns00001100011" />
+    <layout name="pxabnsnfns00001100010" font="Arial" controllayout="pxabnsnfns00001100010" colorscheme="npnxnanbnsnfns00001100011" string_table="npnxnanbnsnfns00001100011" />
+    <layout name="pnxanbnsnfns00001100011" font="Arial" controllayout="pnxanbnsnfns00001100011" colorscheme="npnxnanbnsnfns00001100011" string_table="npnxnanbnsnfns00001100011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="false">
+            <options>
+              <option name="title_text" value="Devices_troc2" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="false">
+            <options />
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="resources" value="true" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="true" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="false" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+            </options>
+          </option>
+          <option name="search" value="true" />
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Open Sans" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns00001100011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns00001100011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns00001100011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns00001100011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns00001100010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="pnxanbnsnfns00001100011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npnxnanbnsnfns00001100011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6A98C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x374D64" alpha="100" stop="0" />
+                <color rgb="0x142D46" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6A98C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x374D64" alpha="100" stop="0" />
+                <color rgb="0x142D46" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5776A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x496484" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1F3752" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4A6C98" alpha="100" stop="0" />
+                <color rgb="0x243C5C" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x294260" alpha="100" stop="0" />
+                <color rgb="0x426288" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x436388" alpha="100" stop="0" />
+                <color rgb="0x294260" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5379A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6CA5DE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3F5A76" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2F465C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5379A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3F5A76" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D4258" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D4258" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5479A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4D6E9A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A3C50" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6A98C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x31475E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5479A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x31475E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x283C4E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6596C9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6A98C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x47658B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x99B2CC" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D4765" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x476A95" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x14304D" alpha="100" stop="0" />
+                <color rgb="0x4C6B96" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x436388" alpha="100" stop="0" />
+                <color rgb="0x2A4360" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3C5979" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x294260" alpha="100" stop="0" />
+                <color rgb="0x426288" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x405E82" alpha="100" stop="0" />
+                <color rgb="0x0E2A45" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7698B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x587BA1" alpha="100" stop="0" />
+                <color rgb="0x496184" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x486B94" alpha="100" stop="0" />
+                <color rgb="0x3A5579" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x527CAD" alpha="100" stop="0" />
+                <color rgb="0x527CAD" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x405E81" alpha="100" stop="0" />
+                <color rgb="0x46678C" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1A324A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x47658B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6A98C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x31475E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4A6C98" alpha="100" stop="0" />
+                <color rgb="0x243C5C" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x294260" alpha="100" stop="0" />
+                <color rgb="0x426288" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x436388" alpha="100" stop="0" />
+                <color rgb="0x294260" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x253C52" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1F3752" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x496484" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x34495E" alpha="100" stop="0" />
+                <color rgb="0x142B42" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x47617F" alpha="100" stop="0" />
+                <color rgb="0x47617F" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x374D64" alpha="100" stop="0" />
+                <color rgb="0x142D46" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x374D64" alpha="100" stop="0" />
+                <color rgb="0x142D46" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x57799E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x46678E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4D74A3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x314B68" alpha="100" stop="0" />
+                <color rgb="0x365374" alpha="100" stop="128" />
+                <color rgb="0x314B68" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npnxnanbnsnfns00001100011">
+      <string id="check_include">Включить в список</string>
+      <string id="clear">Сбросить</string>
+      <string id="close">Закрыть</string>
+      <string id="acc_closed_captions">Скрытые субтитры. Нажмите клавишу пробела, чтобы включить или выключить субтитры.</string>
+      <string id="continue">Продолжить</string>
+      <string id="continueresponsive">Продолжить</string>
+      <string id="exit">Выйти</string>
+      <string id="filter" />
+      <string id="finish">ГОТОВО</string>
+      <string id="acc_finish">готово</string>
+      <string id="definition">Определение</string>
+      <string id="acc_definition">определение</string>
+      <string id="glossary">Глоссарий</string>
+      <string id="terms">Термины</string>
+      <string id="outline">Меню</string>
+      <string id="disabled_orientation">Поверните устройство</string>
+      <string id="next">ДАЛЕЕ</string>
+      <string id="acc_next">далее</string>
+      <string id="transcript_chk">Примечания</string>
+      <string id="transcript">Примечания</string>
+      <string id="bio">Биография</string>
+      <string id="more_info">Дополнительно</string>
+      <string id="closed_captions">Субтитры</string>
+      <string id="acc_pause">пауза</string>
+      <string id="acc_play">воспроизведение</string>
+      <string id="send_an_email">Отправить письмо</string>
+      <string id="prev">СОДЕРЖАНИЕ</string>
+      <string id="acc_previous">назад</string>
+      <string id="question_list">Список вопросов</string>
+      <string id="acc_replay">повтор</string>
+      <string id="resources">Инструкции</string>
+      <string id="acc_resources">ресурсы</string>
+      <string id="restart">Продолжить</string>
+      <string id="search">Поиск...</string>
+      <string id="acc_search_input">поиск</string>
+      <string id="search_in">Поиск:</string>
+      <string id="search_results">Результаты поиска</string>
+      <string id="acc_skipnavigation">Не отображать средства навигации. Нажмите клавишу ВВОД, чтобы вернуться к слайду.</string>
+      <string id="slide_text_chk">Текст слайда</string>
+      <string id="submitall">ОТПРАВИТЬ ВСЕ</string>
+      <string id="acc_submitall">отправить все</string>
+      <string id="submit">ОТПРАВИТЬ</string>
+      <string id="acc_submit">отправить</string>
+      <string id="acc_volume">громкость</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Arial">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Open Sans">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.5cKrtljT1rA.6WV8aM6T79E" displaytext="Содержание" expand="false" type="slide" />
+        <slidelink slideid="_player.5cKrtljT1rA.6d5dLIXiQNG" displaytext="Введение" expand="false" type="slide" />
+        <slidelink slideid="" displaytext="Зрение" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5cKrtljT1rA.5ix5601Uk6J" displaytext="• Дисплей Брайля" expand="false" type="slide" />
+            <slidelink slideid="_player.5cKrtljT1rA.5pwFYv7wESH" displaytext="• Программы экранного доступа и увеличения" expand="false" type="slide" />
+            <slidelink slideid="_player.5cKrtljT1rA.6DE58IGp6B6" displaytext="• Принтер Брайля" expand="false" type="slide" />
+            <slidelink slideid="_player.5cKrtljT1rA.5ylRppEdE76" displaytext="• Электронный видеоувеличитель" expand="false" type="slide" />
+            <slidelink slideid="_player.5cKrtljT1rA.5b7VxqxmEJq" displaytext="• Сканирующая и читающая машина" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="" displaytext="Слух" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5cKrtljT1rA.6mx1671Ll8g" displaytext="• Портативная индукционная система" expand="false" type="slide" />
+            <slidelink slideid="_player.5cKrtljT1rA.6WrXfDJSkM7" displaytext="• Стационарная индукционная система" expand="false" type="slide" />
+            <slidelink slideid="_player.5cKrtljT1rA.69aXR4WD4dg" displaytext="• Акустическая система" expand="false" type="slide" />
+            <slidelink slideid="_player.5cKrtljT1rA.6gekJyWIV2e" displaytext="• Система передачи голоса и его приема на слуховые аппараты" expand="false" type="slide" />
+            <slidelink slideid="_player.5cKrtljT1rA.6oVbwUfOenR" displaytext="• Слуховой тренажер" expand="false" type="slide" />
+            <slidelink slideid="_player.5cKrtljT1rA.5fnUdArU5vV" displaytext="• Специальные образовательные средства" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="" displaytext="Опорно-двигательный аппарат" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5cKrtljT1rA.64lzs9pdrWD" displaytext="• Клавиатура с большими клавишами" expand="false" type="slide" />
+            <slidelink slideid="_player.5cKrtljT1rA.5hN9mx4NX5Q" displaytext="• Джойстик" expand="false" type="slide" />
+            <slidelink slideid="_player.5cKrtljT1rA.6UemOLri3oA" displaytext="• Роллер" expand="false" type="slide" />
+            <slidelink slideid="_player.5cKrtljT1rA.6UDV5ykGAV9" displaytext="• Большая выносная кнопка" expand="false" type="slide" />
+            <slidelink slideid="_player.5cKrtljT1rA.6kffBxdI0ZH" displaytext="• Ресивер Simply Works" expand="false" type="slide" />
+            <slidelink slideid="_player.5cKrtljT1rA.6aeDSWrVOdW" displaytext="• Головная мышь" expand="false" type="slide" />
+            <slidelink slideid="_player.5cKrtljT1rA.5o24Zq5vPeZ" displaytext="• Губная мышь" expand="false" type="slide" />
+            <slidelink slideid="_player.5cKrtljT1rA.65HPwoPTkkL" displaytext="• Система помощи в общении" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="" displaytext="Интеллект, речь" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5cKrtljT1rA.5aoxel7JAlV" displaytext="• Интерактивная светозвуковая система" expand="false" type="slide" />
+            <slidelink slideid="_player.5cKrtljT1rA.62ApjYqIav6" displaytext="• Интерактивный обучающий комплекс" expand="false" type="slide" />
+            <slidelink slideid="_player.5cKrtljT1rA.6rFwZ2q6hB6" displaytext="• Логопедическая коррекционная программа" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="5cKrtljT1rA.5WCa2cNSPUP" slidebank="false" type="slide">специальное оборудование для обучающихся с ограниченными возможностями здоровья департамент информационных технологийгорода москвы пособие для педагогов государственных бюджетных учреждений, подведомственных департаменту труда и социальной защиты населения города москвы    открыть    открыть    открыть </slidetext>
+      <slidetext slideid="5cKrtljT1rA.6d5dLIXiQNG" slidebank="false" type="slide">введение задача данного электронного пособия — помочь педагогу овладеть основными навыками использования специального оборудования для обучающихся с ограниченными возможностями здоровья. важно отметить, что пособие не является исчерпывающим сводом сведений о том или ином устройстве или программном обеспечении (по); для полного описания необходимо обращаться к инструкциям производителей, ссылки на которые даны в пособии. описания устройств и по в пособии распределены по разделам:  зрение; слух; опорно-двигательный аппарат; интеллект, речь. при этом устройства для развития интеллекта и по для коррекции речи условно помещены в один раздел. дело в том, что логопедическая коррекционная программа направлена не только на развитие и коррекцию речи, но и на развитие словесно-логического мышления, внимания, мотивационной сферы и др.; с другой стороны, в интерактивной светозвуковой системе и интерактивном обучающем комплексе есть упражнения, связанные с речью. следует учитывать, что некоторые устройства можно использовать при различных нарушениях, в том числе сочетанных. так, клавиатура с большими клавишами предназначена прежде всего для лиц с опорно-двигательными нарушениями, но может также использоваться слабовидящими (за счет увеличенного размера клавиш). а конструкция интерактивного обучающего комплекса для детей с нарушениями интеллекта позволяет работать с ним в том числе инвалидам-колясочникам. каждое устройство (программное обеспечение) в пособии описывается отдельно. при этом устройства, предполагающие совместное использование, рассматриваются в одном описании. прежде всего, речь идет о системе передачи голоса и его приема на слуховые аппараты, состоящей из передатчика amigo t31 и приемника amigo arc и о сканирующей и читающей машине optelec clearreader+, которую наиболее оптимально использовать вместе с пультом управления magnification feature pack. в то же время ресивер simplyworks, обеспечивающий беспроводное подключение к компьютеру клавиатуры с большими клавишами, джойстика, роллера и большой выносной кнопки, описывается отдельно. для тифлотехнического оборудования (дисплей брайля, принтер брайля, программы экранного доступа и увеличения), а также для логопедического коррекционного по (”игры для тигры”, “специальные образовательные средства”) в пособии даны только ссылки на инструкции производителей. перед их просмотром необходимо убедиться, что в браузере разрешены всплывающие окна. структура описания устройства (или по) такова.  в заголовке указывается описательное название оборудования (например, “большая выносная кнопка”) и оригинальное наименование, данное производителем (simplyworks switch 125). следует учитывать, что в литературе, ресурсах интернета и т.п. одно и то же устройство может называться по-разному; применительно к данному случаю: “компьютерная кнопка адаптированная”, “выносная компьютерная кнопка большая” и нек. др. альтернативные названия в пособии не указываются, но по возможности учитываются при вводе запроса в поле “поиск…” в левом нижнем углу слайда. например, при вводе запроса “компьютерная кнопка адаптированная” меню отобразит строку “большая выносная кнопка”, при вводе “тренажер для развития слуха” или “слухоречевой тренажер” — “слуховой тренажер”, при вводе ”обучающий комплект для детей”, ”п-образный стол” — “интерактивный обучающий комлекс” и т.п. (названия в поле “поиск…” можно вводить неполностью.) затем в описании указываются нозологические формы, при которых рекомендуется использование данного оборудования, например: “для слепых и слабовидящих учеников”. (в описании ресивера вместо указания нозологических форм перечислены устройства, подключаемые к компьютеру беспроводным способом; см. выше.) в правом верхнем углу слайда даются ссылки на инструкции производителей и видеоролики (если есть), демонстрирующие использование оборудования; в зависимости от удобства расположения материала ссылки на видеоролики могут быть даны также в других местах слайда. инструкция к клавиатуре с большими клавишами есть на упаковочной коробке; а в комплект поставки к интерактивному обучающему комплексу входит подробное руководство для педагога с цветными иллюстрациями. инструкции для устройств, которые предполагают совместное использование (см. выше) или обычно используются совместно (как, например, программы экранного доступа и увеличения jaws для windows и magic), даются в одном файле.  все видеоролики взяты из открытых источников. видеоролики на английском языке снабжены субтитрами.  далее, информация о каждом устройстве (или по) в пособии распределяется по следующим вкладкам. начало работы — изложение процедуры ввода устройства в эксплуатацию (например, установление беспроводного соединения между джойстиком и ресивером) или пошаговая инструкция для выполнения некоторой базовой операции (например, работа с электронным видеоувеличителем в режиме чтения). при этом не описывается монтаж оборудования, его калибровка, установка по и т.п. особенности — краткое описание базового функционала. элементы управления — достаточно подробное и наглядное описание элементов управления устройством или по (кнопок, регуляторов, портов подключения и т.п.). как правило, описание устройства по умолчанию открывается на данной вкладке — для оперативного доступа к информации о назначении тех или иных элементов управления. но в некоторых случаях описание открывается по умолчанию на вкладке “начало работы” (например, описание системы помощи в общении, для которой принципиальна определенная последовательность действий). технические характеристики — некоторые важнейшие технические характеристики, которые могут быть полезны для педагогов (в частности, размеры устройства, масса и нек. др.).  </slidetext>
+      <slidetext slideid="5cKrtljT1rA.6ibeDpLBGeH" slidebank="false" type="slide">технические характеристики технические характеристики технические характеристики технические характеристики элементы управления элементы управления элементы управления элементы управления особенности особенности особенности особенности для слабовидящих и слепых учеников. начало работы начало работы начало работы начало работы сканирующая и читающая машина optelec clearreader+ видео инструкция так выглядит страница с описанием оборудования. структура описания излагается в разделе “введение”. так выглядит страница с описанием оборудования. структура описания излагается в разделе “введение”. вперед вперед вперед вперед вперед вперед </slidetext>
+      <slidetext slideid="5cKrtljT1rA.6WV8aM6T79E" slidebank="false" type="slide">	 	 слуха 	 	 интеллекта, речи интеллекта, речи 	 	 зрения оборудование для учеников с нарушением 	 	 опорно-двигательного аппарата дисплей брайля принтер брайля сканирующая и читающая машина еще еще еще еще еще еще еще еще еще еще еще еще электронный видеоувеличитель введение введение введение введение введение введение как пользоваться пособием как пользоваться пособием как пользоваться пособием как пользоваться пособием как пользоваться пособием как пользоваться пособием портативная индукционная система стационарная индукционная система акустическая система система передачи голоса и его приема на слуховые аппараты слуховой тренажер клавиатура с большими клавишами джойстик роллер большая выносная кнопка ресивер интерактивный обучающий комплекс логопедическая коррекционная программа интерактивная светозвуковая система программы экранного доступа и увеличения </slidetext>
+      <slidetext slideid="5cKrtljT1rA.5kDiWJ8HDHi" slidebank="false" type="slide">	 	 слуха 	 	 интеллекта, речи интеллекта, речи 	 	 зрения оборудование для учеников с нарушением 	 	 опорно-двигательного аппарата дисплей брайля принтер брайля сканирующая и читающая машина еще еще еще еще еще еще еще еще еще еще еще еще электронный видеоувеличитель введение введение введение введение введение введение как пользоваться пособием как пользоваться пособием как пользоваться пособием как пользоваться пособием как пользоваться пособием как пользоваться пособием портативная индукционная система стационарная индукционная система акустическая система система передачи голоса и его приема на слуховые аппараты слуховой тренажер клавиатура с большими клавишами джойстик роллер большая выносная кнопка ресивер simply works интерактивный обучающий комплекс логопедическая коррекционная программа интерактивная светозвуковая система программы экранного доступа и увеличения </slidetext>
+      <slidetext slideid="5cKrtljT1rA.64lzs9pdrWD" slidebank="false" type="slide">технические характеристики технические характеристики технические характеристики технические характеристики элементы управления элементы управления элементы управления элементы управления особенности особенности особенности особенности клавиатура с большими клавишами clevy для учеников с различными двигательными нарушениями, со слабым развитием мелкой моторики, с дислексией, с ослабленным зрением. клавиатура адаптированная клавиатура с большими кнопками и разделяющими клавиши накладкой clevy начало работы начало работы начало работы начало работы </slidetext>
+      <slidetext slideid="5cKrtljT1rA.5hN9mx4NX5Q" slidebank="false" type="slide">технические характеристики технические характеристики технические характеристики технические характеристики элементы управления элементы управления элементы управления элементы управления особенности особенности особенности особенности для учеников с различными двигательными нарушениями (в частности, с дцп), со слабым развитием мелкой моторики. начало работы начало работы начало работы начало работы джойстик simplyworks joystick инструкция </slidetext>
+      <slidetext slideid="5cKrtljT1rA.5aoxel7JAlV" slidebank="false" type="slide">технические характеристики технические характеристики технические характеристики технические характеристики элементы управления элементы управления элементы управления элементы управления особенности особенности особенности особенности для формирования, восстановления и развития психомоторных функций и базовых когнитивных навыков у  детей с задержкой психического развития. начало работы начало работы начало работы начало работы интерактивная светозвуковая система “лайтбим” инструкция мобильная интерактивная система управления звуком </slidetext>
+      <slidetext slideid="5cKrtljT1rA.5o24Zq5vPeZ" slidebank="false" type="slide">элементы управления элементы управления элементы управления элементы управления особенности особенности особенности особенности для лиц в постинсультном состоянии, с травмами мозга, опухолью головного мозга,  повреждением спинного мозга, миопатией, дцп, ампутацией верхних конечностей и др. начало работы начало работы начало работы начало работы губная мышь glassouse инструкция </slidetext>
+      <slidetext slideid="5cKrtljT1rA.6aeDSWrVOdW" slidebank="false" type="slide">элементы управления элементы управления элементы управления элементы управления особенности особенности особенности особенности для учеников с различными двигательными нарушениями (в частности, с дцп), со слабым развитием мелкой моторики. начало работы начало работы начало работы начало работы головная мышь plug &amp; play hands free air mouse  инструкция адаптированная мышка в наборе </slidetext>
+      <slidetext slideid="5cKrtljT1rA.6DE58IGp6B6" slidebank="false" type="slide">принтер для печати рельефно-точечным шрифтом брайля </slidetext>
+      <slidetext slideid="5cKrtljT1rA.5ix5601Uk6J" slidebank="false" type="slide">портативный тактильный дисплей брайля брайлевский дисплей </slidetext>
+      <slidetext slideid="5cKrtljT1rA.5pwFYv7wESH" slidebank="false" type="slide">программа экранного доступа по экранного доступа jaws for windows по экранный увеличитель magic 13.0 pro (только увеличение) </slidetext>
+      <slidetext slideid="5cKrtljT1rA.6rFwZ2q6hB6" slidebank="false" type="slide">флэш-тренажер (набор) игры для тигры </slidetext>
+      <slidetext slideid="5cKrtljT1rA.5fnUdArU5vV" slidebank="false" type="slide">комплекс коррекции речевых нарушений программный комплекс "специальные образовательные средства" </slidetext>
+      <slidetext slideid="5cKrtljT1rA.69aXR4WD4dg" slidebank="false" type="slide">технические характеристики технические характеристики технические характеристики технические характеристики элементы управления элементы управления элементы управления элементы управления особенности особенности особенности особенности для повышения четкости акустического сигнала и увеличения охвата помещения, в том числе для слабослышащих и использующих слуховые аппараты. начало работы начало работы начало работы начало работы акустическая система frontrow togo видео специализированная акустическая система для работы со слуховыми аппаратами инструкция </slidetext>
+      <slidetext slideid="5cKrtljT1rA.65HPwoPTkkL" slidebank="false" type="slide">технические характеристики технические характеристики технические характеристики технические характеристики элементы управления элементы управления элементы управления элементы управления особенности особенности особенности особенности для учеников с тяжелыми двигательными нарушениями и поражениями нервно-мышечной системы, в частности с боковым амиотрофическим склерозом и тяжелыми повреждениями спинного мозга, преимущественно шейного отдела. начало работы начало работы начало работы начало работы система помощи в общении eyehelper инструкция </slidetext>
+      <slidetext slideid="5cKrtljT1rA.5ylRppEdE76" slidebank="false" type="slide">технические характеристики технические характеристики технические характеристики технические характеристики элементы управления элементы управления элементы управления элементы управления особенности особенности особенности особенности для слабовидящих и слепых учеников. начало работы начало работы начало работы начало работы электронный видеоувеличитель optelec clearview c инструкция </slidetext>
+      <slidetext slideid="5cKrtljT1rA.5b7VxqxmEJq" slidebank="false" type="slide">технические характеристики технические характеристики технические характеристики технические характеристики элементы управления элементы управления элементы управления элементы управления особенности особенности особенности особенности для слабовидящих и слепых учеников. начало работы начало работы начало работы начало работы сканирующая и читающая машина optelec clearreader+ машина сканирующая и читающая с интуитивной клавиатурой дистанционного управления (комплект) компьютерное оборудование для слабовидящих с читающей машиной инструкция </slidetext>
+      <slidetext slideid="5cKrtljT1rA.6oVbwUfOenR" slidebank="false" type="slide">технические характеристики технические характеристики технические характеристики технические характеристики элементы управления элементы управления элементы управления элементы управления особенности особенности особенности особенности для индивидуальной работы преподавателя с учеником при обучении учащихся с потерей слуха i-iv степени и дефектами речи, с целью коррекции слуха и развития речевых навыков. слуховой тренажер “соло-01в” видео инструкция тренажер для развития слуха, слухоречевой тренажер </slidetext>
+      <slidetext slideid="5cKrtljT1rA.6mx1671Ll8g" slidebank="false" type="slide">технические характеристики технические характеристики технические характеристики технические характеристики элементы управления элементы управления элементы управления элементы управления особенности особенности особенности особенности для обучения малых групп с участием пользователей слуховых аппаратов, в том числе в обстановке повышенного фонового шума. портативная индукционная система “исток а2” видео инструкция система информационная для слабослышащих портативная со встроенным плеером звуковой информации и рм </slidetext>
+      <slidetext slideid="5cKrtljT1rA.6WrXfDJSkM7" slidebank="false" type="slide">технические характеристики технические характеристики технические характеристики технические характеристики элементы управления элементы управления элементы управления элементы управления особенности особенности особенности особенности для обеспечения слышимости пользователей слуховых аппаратов в помещениях (зонах помещений) площадью от 30 до 700 м2. стационарная индукционная система “исток с” инструкция система информационная стационарная для слабослышащих </slidetext>
+      <slidetext slideid="5cKrtljT1rA.6kffBxdI0ZH" slidebank="false" type="slide">технические характеристики технические характеристики технические характеристики технические характеристики элементы управления элементы управления элементы управления элементы управления для беспроводного подключения по технологии simplyworks таких устройств, как клавиатура с большими клавишами, джойстик, роллер, большая выносная кнопка и др. начало работы начало работы начало работы начало работы ресивер simplyworks receive:2 инструкция ресивер для беспроводной связи </slidetext>
+      <slidetext slideid="5cKrtljT1rA.62ApjYqIav6" slidebank="false" type="slide">системные требования системные требования системные требования системные требования элементы управления элементы управления элементы управления элементы управления особенности особенности особенности особенности для обучения и развития детей разного возраста с различными двигательными и когнитивными нарушениями, в том числе для детей с дцп, синдромом дефицита внимания и гиперактивности, травмами головного мозга, генетическими синдромами и др. интерактивный обучающий комплекс edutouch образовательное решение для коррекционного образования обучающий комплект для детей п-образный стол начало работы начало работы начало работы начало работы </slidetext>
+      <slidetext slideid="5cKrtljT1rA.6UDV5ykGAV9" slidebank="false" type="slide">технические характеристики технические характеристики технические характеристики технические характеристики элементы управления элементы управления элементы управления элементы управления особенности особенности особенности особенности для учеников с различными двигательными нарушениями (в частности, с дцп), со слабым развитием мелкой моторики. начало работы начало работы начало работы начало работы большая выносная кнопка simplyworks switch 125 инструкция компьютерная кнопка адаптированная выносная компьютерная кнопка большая </slidetext>
+      <slidetext slideid="5cKrtljT1rA.6UemOLri3oA" slidebank="false" type="slide">технические характеристики технические характеристики технические характеристики технические характеристики элементы управления элементы управления элементы управления элементы управления особенности особенности особенности особенности для учеников с различными двигательными нарушениями (в частности, с дцп), со слабым развитием мелкой моторики. начало работы начало работы начало работы начало работы роллер simplyworks trackball инструкция роллер компьютерный </slidetext>
+      <slidetext slideid="5cKrtljT1rA.6gekJyWIV2e" slidebank="false" type="slide">технические характеристики технические характеристики технические характеристики технические характеристики элементы управления элементы управления элементы управления элементы управления особенности особенности особенности особенности для учеников, использующих слуховые аппараты или кохлеарные импланты. система передачи голоса amigo t31, arc и его приема на слуховые аппараты  видео инструкция система передачи и приема голоса преподавателя на слуховые аппараты (fm диапазона) начало работы начало работы начало работы начало работы </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="&lt;p align='left'&gt;&lt;font face='Arial' style='font-size: 11px;' size='11' color='#FFFFFF'&gt;&amp;#1048;&amp;#1085;&amp;#1089;&amp;#1090;&amp;#1088;&amp;#1091;&amp;#1082;&amp;#1094;&amp;#1080;&amp;#1080; &amp;#1087;&amp;#1088;&amp;#1086;&amp;#1080;&amp;#1079;&amp;#1074;&amp;#1086;&amp;#1076;&amp;#1080;&amp;#1090;&amp;#1077;&amp;#1083;&amp;#1077;&amp;#1081; &amp;#1082; &amp;#1086;&amp;#1073;&amp;#1086;&amp;#1088;&amp;#1091;&amp;#1076;&amp;#1086;&amp;#1074;&amp;#1072;&amp;#1085;&amp;#1080;&amp;#1102;&lt;/font&gt;&lt;/p&gt;">
+    <resources>
+      <resource url="story_content/external_files/Amigo Arc.pdf" image="story_content/5vIQrxrxj8L.png" title="Amigo Arc" />
+      <resource url="story_content/external_files/EduTouch.pdf" image="story_content/677qc9Ievvl.png" title="EduTouch" />
+      <resource url="https://yadi.sk/d/lvajVM_k3RUnCz" image="story_content/6NJujrAT6E1.png" title="EduTouch" />
+      <resource url="story_content/external_files/EyeHelper.pdf" image="story_content/5yqjms9suG5.png" title="EyeHelper" />
+      <resource url="story_content/external_files/Focus 40 Blue.pdf" image="story_content/6i46kadejyp.png" title="Focus 40 Blue" />
+      <resource url="story_content/external_files/FrontRow ToGo.pdf" image="story_content/6c0oxKnDmqe.png" title="FrontRow ToGo" />
+      <resource url="story_content/external_files/Glassouse.pdf" image="story_content/6lgZTfzK0K9.png" title="Glassouse" />
+      <resource url="story_content/external_files/JAWS&amp;MAGic.pdf" image="story_content/6MmpWkqqomY.png" title="JAWS &amp; MAGic" />
+      <resource url="story_content/external_files/Optelec ClearReader+&amp;Magnification Feature Pack.pdf" image="story_content/6GxB5dQ0aZI.png" title="Optelec ClearReader+ &amp; Magnification Feature Pack" />
+      <resource url="story_content/external_files/ClearView C Speech HD.pdf" image="story_content/6hmmukyQo1b.png" title="Optelec ClearView C Speech HD" />
+      <resource url="story_content/external_files/Plug &amp; Play Air Mouse.pdf" image="story_content/6INxd2SW0cB.png" title="Plug &amp; Play Hands Free Air Mouse" />
+      <resource url="story_content/external_files/Joystick.pdf" image="story_content/63i32YqIRm5.png" title="SimplyWorks Joystick" />
+      <resource url="story_content/external_files/Receive 2.pdf" image="story_content/6btZworMmGY.png" title="SimplyWorks Receive:2" />
+      <resource url="story_content/external_files/Switch-125.pdf" image="story_content/5eWFf8oUxbx.png" title="SimplyWorks Switch 125" />
+      <resource url="story_content/external_files/Trackball.pdf" image="story_content/5rDrAT9xDZh.png" title="SimplyWorks Trackball" />
+      <resource url="story_content/external_files/VPColumbia.pdf" image="story_content/5aMdCgilcR6.png" title="VPColumbia" />
+      <resource url="story_content/external_files/Игры для Тигры.pdf" image="story_content/5sgQ2ebaxnn.png" title="Игры для Тигры" />
+      <resource url="story_content/external_files/Исток А2.pdf" image="story_content/6BXcDgf82cZ.png" title="Исток А2" />
+      <resource url="story_content/external_files/ИСТОК С.pdf" image="story_content/6mR3buaU6sP.png" title="Исток С" />
+      <resource url="story_content/external_files/ЛайтБим.pdf" image="story_content/5XGQInv1pTh.png" title="ЛайтБим" />
+      <resource url="story_content/external_files/Соло-01В.pdf" image="story_content/6NgilPBuS1w.png" title="Соло-01В" />
+      <resource url="story_content/external_files/Специальные образовательные средства.pdf" image="story_content/6MG96IdYdp2.png" title="Специальные образовательные средства" />
+    </resources>
+  </resource_data>
+  <transcript_data />
+  <glossary_data />
+</bwFrame>
